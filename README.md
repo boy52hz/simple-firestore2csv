@@ -5,12 +5,12 @@ Feel free to implement it for your own work :)
 
 ### How to use
 
-1. Install node packages.
+1. Install node packages.  
    ```bash
    npm install
    ```
-2. Config your firebase config
-3. Run main.js
+2. Config your firebase config.
+3. Run main.js  
    ```bash
    node .
    or
