@@ -1,0 +1,19 @@
+{
+  "name": "firestore2csv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "engines": {
+    "node": ">=16.16.0",
+    "npm": ">=8.11.0"
+  },
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^9.9.2",
+    "moment": "^2.29.4"
+  }
+}
